@@ -6,47 +6,47 @@ const musicPlayer = {
         {
             title: "hanuman chalisa",
             artist: "Artist 1",
-            src: "song1.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song1.mp3"
         },
         {
             title: "mera shyam aa jata mere",
             artist: "Artist 2",
-            src: "song2.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song2.mp3"
         },
         {
             title: "meri aashiqi",
             artist: "Artist 3",
-            src: "song3.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song3.mp3"
         },
         {
             title: "jaise phool tode honge tumne",
             artist: "Artist 4",
-            src: "song4.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song4.mp3"
         },
         {
             title: "aao mil mohabbat adaa kro",
             artist: "Artist 5",
-            src: "song5.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song5.mp3"
         },
         {
             title: "main sath hu",
             artist: "Artist 6",
-            src: "song6.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song1.mp3"
         },
         {
             title: "aise to sataye na",
             artist: "Artist 7",
-            src: "song7.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song2.mp3"
         },
         {
             title: "Saiyaaraa",
             artist: "Artist 8",
-            src: "song8.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song3.mp3"
         }
         ,{
             title: "vrindavan me raadhe raadhe",
             artist: "Artist 9",
-            src: "song9.mp3"
+            src: "https://github.com/ReenaAIDevCoder/CodeAlpha_music-player/blob/main/song4.mp3"
         }
         ,{
             title: "O aadi shakti",
@@ -214,3 +214,4 @@ const musicPlayer = {
 document.addEventListener('DOMContentLoaded', () => {
     musicPlayer.init();
 });
+
