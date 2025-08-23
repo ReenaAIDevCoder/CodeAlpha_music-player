@@ -6,7 +6,7 @@ const musicPlayer = {
         {
             title: "hanuman chalisa",
             artist: "Artist 1",
-            src: "https://www.jiosaavn.com/song/shree-hanuman-chalisa/RyscfQJoVAU"
+            src: "C:\Users\hp\OneDrive\Desktop\codeAlpha\music player\song1.mp3"
         },
         {
             title: "mera shyam aa jata mere",
@@ -214,5 +214,6 @@ const musicPlayer = {
 document.addEventListener('DOMContentLoaded', () => {
     musicPlayer.init();
 });
+
 
 
